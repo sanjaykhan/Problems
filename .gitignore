@@ -11,6 +11,26 @@ CTestTestfile.cmake
 _deps
 CMakeUserPresets.json
 
+# Build directories
+build/
+out/
+cmake-build-*/
+
+# IDE configuration files
+.idea/
+.vscode/
+.vs/
+
+# CMake cache files
+CMakeCache.txt
+
+# Executables
+*.exe
+*.out
+
+# Temporary files
+*.log
+
 # CLion
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
