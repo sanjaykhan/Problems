@@ -15,6 +15,7 @@ CMakeUserPresets.json
 build/
 out/
 cmake-build-*/
+.cmake/
 
 # IDE configuration files
 .idea/
