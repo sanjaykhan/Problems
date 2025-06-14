@@ -18,7 +18,6 @@ cmake-build-*/
 
 # IDE configuration files
 .idea/
-.vscode/
 .vs/
 
 # CMake cache files
